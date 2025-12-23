@@ -7,6 +7,7 @@ function User({name,age,role}) {
         <p>User Name : {name}</p>
         <p>User Age : {age}</p>
         <p>User Role : {role}</p>
+        <h3>Code Examples</h3>
     </div>
   )
 }
